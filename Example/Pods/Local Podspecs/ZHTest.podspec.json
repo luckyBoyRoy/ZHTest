@@ -1,0 +1,22 @@
+{
+  "name": "ZHTest",
+  "version": "0.1.0",
+  "summary": "A short description of ZHTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhh10055@163.com/ZHTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhh10055@163.com": "luckyBoyRoy@163.com"
+  },
+  "source": {
+    "git": "https://github.com/zhh10055@163.com/ZHTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZHTest/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module ZHTest {
+  umbrella header "ZHTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
